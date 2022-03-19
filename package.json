@@ -1,0 +1,22 @@
+{
+  "name": "mqtt-mosquitto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aokihu <aokihu@gmail.com>",
+  "license": "MIT",
+  "description": "Nodejs wapper for mosquitto",
+  "keywords": [
+    "mqtt",
+    "mosquitto",
+    "eclipse",
+    "iot",
+    "robot"
+  ],
+  "engines": {
+    "node": ">=16.x"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  }
+}
